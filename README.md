@@ -20,7 +20,7 @@ We compare uniform sampling with replacement and random reshuffling without repl
 
 ## Files
 - `paper.pdf` — Full research paper
-- `wallpaper.png` — Visual for LinkedIn research post
+- `research_image.gif` — Visual for LinkedIn research post
 
 ## Notes
 This is my first independent research paper.  
