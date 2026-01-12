@@ -1,3 +1,5 @@
+![Research Banner](research_image.gif)
+
 # An Analytical Investigation of Data Sampling Strategies in Stochastic Gradient Descent
 
 **Author:** Aksel Aghajanyan  
